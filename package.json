@@ -1,9 +1,10 @@
 {
   "name": "@ts-npm-examples/globally-global-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript NPM module with global types that augments the project that imports it.",
   "main": "/dist/index.js",
   "license": "MIT",
+  "repository": "https://github.com/ts-npm-examples/globally-global-module",
   "scripts": {
     "build": "tsc",
     "test": "npm-run-all lint unit-test",
